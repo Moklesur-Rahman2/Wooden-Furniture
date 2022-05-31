@@ -1,0 +1,26 @@
+.choose-one{
+border: none;
+background-color: white;
+padding: 16px;
+margin-right: 4px;
+margin-top: 24px;
+border-radius: 4px;
+font-weight: bold;
+cursor: pointer;
+}
+.choose-again{
+border: none;
+background-color: rgb(252, 255, 228);
+padding: 16px;
+margin-left: 4px;    
+margin-top: 24px;
+border-radius: 4px;
+font-weight: bold;
+cursor: pointer;
+}
+.cart-summary > h3{
+    margin-bottom: 24px;
+}
+.cart-button{
+    margin-bottom: 24px;
+}

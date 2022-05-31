@@ -1,0 +1,56 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Wooden Elbow Chair",
+    "price": 959,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/leibal_carl-hansen_ch20_1_720x.jpg?v=1623834170"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Primitive Structure",
+    "price": 196,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/prod1_e8979214-9cba-4741-9eb0-052b8b77357a_540x.jpg?v=1628139455"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Coast Table Square",
+    "price": 245,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/prod2_1c1ff271-208e-415a-99c0-3bd7e0e9c727_540x.jpg?v=1628139515"
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "December XL Ottoman",
+    "price": 229,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/prod3_540x.jpg?v=1628139571"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Primitive Structure Chair",
+    "price": 287,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/prod4_540x.jpg?v=1628139625"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "Metal Base Armchair",
+    "price": 138,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/arm1_540x.jpg?v=1623833378"
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Covent Lounge Chair",
+    "price": 226,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/prod5_540x.jpg?v=1628139680"
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84036d",
+    "name": "Cugino",
+    "price": 226,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/prod6_540x.jpg?v=1628139731"
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84017d",
+    "name": "Concrete Marble",
+    "price": 226,
+    "img": "https://cdn.shopify.com/s/files/1/0042/0750/9567/products/01__3000_Mirror_Walnut_by_Trueing_540x.jpg?v=1628138928"
+  }
+]

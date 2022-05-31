@@ -1,0 +1,20 @@
+.product img{
+    width: 100%;
+}
+.product h2{
+    margin: 16px 0 8px 0;
+}
+.add-cart{
+    background-color: #966F33;
+    border: none;
+    color: #fff;
+    padding: 8px 32px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-top: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.fa-icon{
+    margin-left: 8px;
+}
